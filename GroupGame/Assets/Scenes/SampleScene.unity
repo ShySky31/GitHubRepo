@@ -493,7 +493,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.030000001, y: 0.893826}
   m_AnchorMax: {x: 0.12347917, y: 0.95723206}
-  m_AnchoredPosition: {x: 1559, y: 0.75271606}
+  m_AnchoredPosition: {x: 1559, y: 0.75268555}
   m_SizeDelta: {x: 2.149, y: -1.5050998}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &541559983
@@ -3248,12 +3248,12 @@ GameObject:
   - component: {fileID: 1968381758}
   - component: {fileID: 1968381757}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Shop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1968381757
 MonoBehaviour:
   m_ObjectHideFlags: 0
